@@ -5,4 +5,3 @@ The app shows you the average time it takes to solve a problem during your run.
 The goal is to have the shorted average time.
 
 This app is part of the Angular Course by Stephen Grider on Udemy.
-# MathForm
